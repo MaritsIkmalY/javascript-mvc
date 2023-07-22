@@ -1,0 +1,44 @@
+[
+   {
+      "id": 1,
+      "name": "Playlist Galau Brutal",
+      "songs": [
+         {
+            "id": 1,
+            "name": "Forever // Over",
+            "duration": 180,
+            "genre": "Alternative"
+         },
+         {
+            "id": 2,
+            "name": "New Perspective",
+            "duration": 180,
+            "genre": "Rock"
+         },
+         {
+            "id": 3,
+            "name": "At My Worst",
+            "duration": 180,
+            "genre": "Alternative"
+         }
+      ]
+   },
+   {
+      "id": 2,
+      "name": "Love Linttt",
+      "songs": [
+         {
+            "id": 1,
+            "name": "Rock and Roll",
+            "duration": 180,
+            "genre": "Alternative"
+         },
+         {
+            "id": 2,
+            "name": "At My Worst",
+            "duration": 180,
+            "genre": "Alternative"
+         }
+      ]
+   }
+]

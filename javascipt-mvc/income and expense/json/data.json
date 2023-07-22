@@ -1,0 +1,31 @@
+{
+   "incomes": [
+      {
+         "name": "Gaji Bulan",
+         "total": 5000,
+         "category": "income"
+      },
+      {
+         "name": "Slot",
+         "total": 10000,
+         "category": "income"
+      },
+      {
+         "name": "Jual Ginjal",
+         "total": 5000,
+         "category": "income"
+      }
+   ],
+   "expenses": [
+      {
+         "name": "Bayar Listrik",
+         "total": 1000,
+         "category": "outcome"
+      },
+      {
+         "name": "Beli Ginjal",
+         "total": 5000,
+         "category": "expense"
+      }
+   ]
+}
